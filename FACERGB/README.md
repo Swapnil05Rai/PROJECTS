@@ -10,7 +10,7 @@ Facial Recognition: Face detection is a fundamental step in facial recognition s
 Biometric Identification: Face detection plays a crucial role in biometric identification systems. It enables the extraction of unique facial features that can be used for individual identification. Face detection algorithms can identify faces from databases, surveillance footage, or live video streams, aiding in law enforcement, access control, or identity verification scenarios.
 
 
-RGB Detecctor
+"--------------------------------------------------------------------------------------------------------------------------------------
 RGB Detector using Camera
 A project that utilizes computer vision techniques to detect and identify RGB colors using a camera.
 
