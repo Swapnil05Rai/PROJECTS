@@ -1,0 +1,19 @@
+Name: Sumitra Desai
+Phone: 9876543210
+Email: sumitra@example.com
+Address: New Delhi, India
+
+Name: Rahul Sharma
+Phone: 9123456789
+Email: rahul.sharma@example.com
+Address: Mumbai, Maharashtra, India
+
+Name: Mohini Patel
+Phone: 7890123456
+Email: mohini.patel@example.com
+Address: Ahmedabad, Gujarat, India
+
+Name: Aman Kumar
+Phone: 9988776655
+Email: aman.kumar@example.com
+Address: Bangalore, Karnataka, India
