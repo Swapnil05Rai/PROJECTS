@@ -6,7 +6,6 @@ Welcome to the Job Hiring Platform project! This web application is built using 
 
 - Employers can post new job openings with details such as company name, job title, job description, and location.
 
-## Usage
 
 ### Employers
 
