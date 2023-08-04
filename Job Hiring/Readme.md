@@ -18,6 +18,7 @@ Welcome to the Job Hiring Platform project! This web application is built using 
 - Django
 - Bootstrap
 - HTML and CSS
+- MongoDB
 
 ## Contributions
 
